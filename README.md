@@ -1,4 +1,9 @@
+Kultra Mega Stores (KMS) specializes in office supplies and furniture. 
+The company's customers ranges from individual consumers and small businesses (retail) to corporate organizations (wholesale).
+I was contracted as a Business Intelligence Analyst to help KMS analyze and present insights from the case scenarios.
+
 Case Scenario 
+
 Case 1 Which product category had the highest sales?
 
 Case 2 What are the Top and Bottom Regions with regards to sales?
